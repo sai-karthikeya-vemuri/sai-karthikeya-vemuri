@@ -3,8 +3,7 @@
 
 
 I am Sai Karthikeya Vemuri, currently pursuing my masters in Computational Materials Science in Freiberg University of Mining and Technology.I have done my Bachelors in Mechanical Engineering in Vasavi College of Engineering, Hyderabad.
-### Why am I doing what I am doing?
-Data can be a really great story teller,unveiling things about us , finding patterns previously unkown or hidden by intuition. I believe the key to get the answers from the world is to ask the right question in the right way. This is the crux of Machine Learning and Data Science which I am attracted to and want to dedicate my life seeking the answers that make the world a better place.
+.
 ### Some stuff
 - 🔭 I’m currently working on solving differential equations using Neural Netwroks
 - 🌱 I’m currently learning Machine and Deep Learning
@@ -18,7 +17,10 @@ E-Mail: [saikarthikeya4u@gmail.com](mailto:saikarthikeya4u@gmail.com)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+### Since you are still here.....
+Intuition is a manipulating thing which is nothing but an algorithm trained with generations and generations of Data. It helps us to live our dialy lives but hides so much information about the universe and makes us live in an illusion. Data Science and Machine Learning may give us insights into this large step we take in looking the world. Data can be a great story-teller telling us about ourselves and the world,finding unkown patterns and wisdom. The key is to ask the right questions in the right way and this is what i am gonna do.
+And also.. Batman is the greatest superhero , Star Wars Prequels is the greatest trilogy, The Trial is the greatest book . Whatever you do is inconsequential and no one can fill the void with which we are born and we will die all alone.\
+Thanks for coming to my Ted Talk.
 <!--
 **sai-karthikeya-vemuri/sai-karthikeya-vemuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
