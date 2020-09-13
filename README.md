@@ -3,7 +3,7 @@
 
 
 I am Sai Karthikeya Vemuri, currently pursuing my masters in Computational Materials Science in Freiberg University of Mining and Technology.I have done my Bachelors in Mechanical Engineering in Vasavi College of Engineering, Hyderabad.
-### Why I am doing what I am doing?
+### Why am I doing what I am doing?
 Data can be a really great story teller,unveiling things about us , finding patterns previously unkown or hidden by intuition. I believe the key to get the answers from the world is to ask the right question in the right way. This is the crux of Machine Learning and Data Science which I am attracted to and want to dedicate my life seeking the answers that make the world a better place.
 ### Some stuff
 - 🔭 I’m currently working on solving differential equations using Neural Netwroks
