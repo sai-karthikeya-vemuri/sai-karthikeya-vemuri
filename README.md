@@ -11,16 +11,7 @@ I am Sai Karthikeya Vemuri, currently pursuing my masters in Computational Mater
 - ⚡ Fact: It gets easier , everyday it gets a little easier, but you gotta do it everyday , that's the hard part but it does get easier.
 - 📫 How to reach me: 
 E-Mail: [saikarthikeya4u@gmail.com](mailto:saikarthikeya4u@gmail.com)
-### Languages and Tools :eye_speech_bubble:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Since you are still here.....
-Intuition is a manipulating thing which is nothing but an algorithm trained with generations and generations of Data from senses optimizing survivability. It helps us to live our dialy lives but hides so much information about the universe and makes us live in an illusion.We have evolved to a stage where we can de-construct our intuition. Data Science and Machine Learning is first step in that deconstruction and may give us insights into this large step we take in looking the world. Data can be a great story-teller telling us about ourselves and the world,finding unkown patterns and wisdom. The key is to ask the right questions in the right way and this is what i am gonna do.\
-And also.. Batman is the greatest superhero , Star Wars Prequels is the greatest trilogy, The Trial is the greatest book . Whatever you do is inconsequential and no one can fill the void with which we are born and we will die all alone.\
-Thanks for coming to my Ted Talk.
 <!--
 **sai-karthikeya-vemuri/sai-karthikeya-vemuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
